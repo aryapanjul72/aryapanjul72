@@ -1,5 +1,4 @@
-[![An image of @aryapanjul72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryapanjul72)](https://holopin.io/@aryapanjul72)
-
+![logo](https://github.com/aryapanjul72/aryapanjul72/blob/main/banner.png)
 <h1 align="center">Hello, I'm Arya Priyamanaya.</h1>
 <h3 align="center">Programming is a side job, the main job is mangan🍕</h3>
 
