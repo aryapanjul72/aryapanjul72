@@ -34,7 +34,7 @@
 
 ## 💡 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arya-priyamanaya-3ba68a2aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-priyamanaya-3ba68a2aa" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/arya-priyamanaya-3ba68a2aa](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BiyMItkeVQsWiCK453FneBg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arya-priyamanaya-3ba68a2aa" height="30" width="40" /></a>
 <a href="https://instagram.com/prymnarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prymnarya" height="30" width="40" /></a>
 </p>
 
