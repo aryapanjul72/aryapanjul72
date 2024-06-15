@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I'm Arya Priyamanaya.</h1>
 <h3 align="center">Programming is a side job, the main job is mangan🍕</h3>
 
+## 🙋‍♂️ About Me
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryapanjul72&label=Profile%20views&color=0e75b6&style=flat" alt="aryapanjul72" /> </p>
 
 - 🌱 I’m currently learning **Back End Programming.**
@@ -10,6 +12,10 @@
 - 📫 How to reach me **aryapriyamanaya@gmail.com**
 
 - ⚡ **I love playing guitar**
+
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryapanjul72&" alt="aryapanjul72" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryapanjul72&show_icons=true&locale=en" alt="aryapanjul72" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryapanjul72&" alt="aryapanjul72" /></p>
