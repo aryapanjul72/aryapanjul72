@@ -38,6 +38,6 @@
 </p>
 
 ## ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryapanjul72&label=Profile%20views&color=0e75b6&style=flat" alt="aryapanjul72" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=aryapanjul72&label=Profile%20views&color=0e75b6&style=flat" alt="aryapanjul72" /> </a>
 <a href="https://github.com/aryapanjul72?tab=followers"><img src="https://img.shields.io/github/followers/aryapanjul72?label=Followers&style=social" alt="GitHub Badge"></a>
 
