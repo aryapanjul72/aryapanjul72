@@ -15,13 +15,13 @@
 <p align="center">
     <a href="https://github.com/aryapanjul72/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arya Priyamanaya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aryapanjul72&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-    <a href="https://github.com/aryapanjul72/github-readme-stats"><img alt="Arya Priyamanaya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapanjul72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   
 </p>
 
 ## 📊 My Github Stats
 <br/>
 <a href="https://github.com/aryapanjul72/github-readme-stats"><img alt="Arya Priyamanaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryapanjul72&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryapanjul72&show_icons=true&locale=en&layout=compact" alt="aryapanjul72" /></p>
+ <a href="https://github.com/aryapanjul72/github-readme-stats"><img alt="Arya Priyamanaya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapanjul72&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
