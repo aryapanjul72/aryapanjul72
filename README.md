@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Back End Programming.**
   
-- 🎓 **'21s Pamulang University**
+- 🎓 **'21 Pamulang University**
 
 - 💬 Ask me about **C++**
 
