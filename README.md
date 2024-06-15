@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryapriyamanaya@gmail.com**
 
-- ⚡ **I love playing guitar**
+- ⚡ **I love Music, Automotive, Programming, Art, Astronomy, and Psychology**
 
 <br/>
 
