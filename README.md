@@ -7,7 +7,7 @@
   
 - 🎓 **'21 Pamulang University**
 
-- 💬 Ask me about **C++**
+- 💬 Took an hours to respond
 
 - 📫 How to reach me **aryapriyamanaya@gmail.com**
 
